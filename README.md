@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prudhviraj-1729
-- 👀 I’m interested in Competitive Programming.
-- 🌱 I’m currently learning Data Structures and Algorithms Using Java 
+- 👀 I’m interested in Problem Solving.
+- 🌱 I’m currently learning Data Structures and Algorithms Using Python 
 
 
 <!---
