@@ -8,6 +8,13 @@
 
 - GeeksForGeeks : https://auth.geeksforgeeks.org/user/prudhvirajch
 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[twitter]: https://twitter.com/bradgarropy
+[instagram]: https://instagram.com/bradgarropy
+[linkedin]: https://linkedin.com/in/bradgarropy](https://www.linkedin.com/in/prudhvi-raj-ch-b4551a1a5/
 
 <!---
 prudhviraj-1729/prudhviraj-1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
