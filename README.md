@@ -8,8 +8,8 @@
 
 - GeeksForGeeks : https://auth.geeksforgeeks.org/user/prudhvirajch
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/PrudhviRaj__CH) &nbsp;
-
+<img src="https://raw.githubusercontent.com/donavon/donavon/master/img/twitter.svg" />  [Twitter](https://twitter.com/PrudhviRaj__CH) &nbsp;
+ 
 
 ## 🧰 &nbsp;My toolbox
 
