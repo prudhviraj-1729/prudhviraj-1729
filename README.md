@@ -1,4 +1,4 @@
-## - <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I’m Prudhvi Raj! 
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I’m Prudhvi Raj! 
 - 👉 I'm a Passionate, motivated and Self-taught Full Stack Web Developer.
 - 👀 I’m interested in learning new technologies and Problem Solving.
 - 🌱 I’m currently solving problems on LeetCode and GeeksForGeeks.
