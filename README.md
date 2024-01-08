@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Data Structures and Algorithms Using Python
 
 - LeetCode : https://leetcode.com/prudhvirajch/
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/prudhvirajch)
 - GeeksForGeeks : https://auth.geeksforgeeks.org/user/prudhvirajch
 
 
