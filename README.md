@@ -1,8 +1,9 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I’m Prudhvi Raj! 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 - 👉 I'm a Passionate, motivated and Self-taught Full Stack Web Developer.
 - 👀 I’m interested in learning new technologies and Problem Solving.
 - 🌱 I’m currently solving problems on LeetCode and GeeksForGeeks.
-
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prudhvirajch?theme=dark&font=Abel&ext=heatmap) ![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=prudhvirajch)
 - LeetCode : https://leetcode.com/prudhvirajch/
