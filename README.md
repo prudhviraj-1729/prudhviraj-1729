@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prudhviraj-1729
+- 👋 Hi, I’m Prudhvi Raj Ch.
 - 👀 I’m interested in Problem Solving.
 - 🌱 I’m currently learning Data Structures and Algorithms Using Python
 
