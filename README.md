@@ -1,5 +1,5 @@
 ## - 👋 Hey, I’m Prudhvi Raj.
-- 👀 I’m interested in Problem Solving.
+- 👀 I’m a Software Engineer by Profession and in Problem Solver by Heart.
 - 🌱 I’m currently solving problems on LeetCode and GeeksForGeeks.
 
 
