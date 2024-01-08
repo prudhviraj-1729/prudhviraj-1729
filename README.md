@@ -6,10 +6,7 @@
 - LeetCode : https://leetcode.com/prudhvirajch/
 
 
-- GeeksForGeeks : https://auth.geeksforgeeks.org/user/prudhvirajch
-
-<img src="https://raw.githubusercontent.com/donavon/donavon/master/img/twitter.svg" />  [Twitter](https://twitter.com/PrudhviRaj__CH) &nbsp;
- 
+- GeeksForGeeks : https://auth.geeksforgeeks.org/user/prudhvirajch 
 
 ## 🧰 &nbsp;My toolbox
 
