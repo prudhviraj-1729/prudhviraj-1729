@@ -1,4 +1,4 @@
-## - 👋 Hi, I’m Prudhvi Raj Ch.
+## - 👋 Hey, I’m Prudhvi Raj.
 - 👀 I’m interested in Problem Solving.
 - 🌱 I’m currently solving problems on LeetCode and GeeksForGeeks.
 
