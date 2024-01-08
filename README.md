@@ -1,4 +1,5 @@
 ## - 👋 Hey, I’m Prudhvi Raj.
+- 😃 A Passionate, motivated and Self-taught Full Stack Web Developer.
 - 👀 I’m a Software Engineer by Profession and in Problem Solver by Heart.
 - 🌱 I’m currently solving problems on LeetCode and GeeksForGeeks.
 
