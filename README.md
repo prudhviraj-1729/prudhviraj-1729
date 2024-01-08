@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Prudhvi Raj Ch.
+## - 👋 Hi, I’m Prudhvi Raj Ch.
 - 👀 I’m interested in Problem Solving.
-- 🌱 I’m currently learning Data Structures and Algorithms Using Python
+- 🌱 I’m currently solving problems on LeetCode and GeeksForGeeks.
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prudhvirajch?theme=dark&font=Abel&ext=heatmap) ![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=prudhvirajch)
