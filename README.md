@@ -12,7 +12,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[twitter]: https://twitter.com/bradgarropy
+[twitter]: https://twitter.com/bradgarropy](https://twitter.com/PrudhviRaj__CH
 [instagram]: https://instagram.com/bradgarropy
 [linkedin]: https://linkedin.com/in/bradgarropy](https://www.linkedin.com/in/prudhvi-raj-ch-b4551a1a5/
 
