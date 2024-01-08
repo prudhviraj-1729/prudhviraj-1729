@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @prudhviraj-1729
 - 👀 I’m interested in Problem Solving.
-- 🌱 I’m currently learning Data Structures and Algorithms Using Python 
+- 🌱 I’m currently learning Data Structures and Algorithms Using Python
+
+- LeetCode : https://leetcode.com/prudhvirajch/
+- GeeksForGeeks : https://auth.geeksforgeeks.org/user/prudhvirajch
 
 
 <!---
