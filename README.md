@@ -6,7 +6,7 @@
 👀 I’m interested in learning new technologies and Problem Solving. <br>
 🌱 I’m currently solving problems on LeetCode and GeeksForGeeks.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/prudhvirajch?theme=dark&font=Abel&ext=heatmap) ![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=prudhvirajch) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/prudhvirajch?theme=dark&font=Roboto&ext=heatmap) ![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=prudhvirajch) 
 - LeetCode : https://leetcode.com/prudhvirajch/
 
 - GeeksForGeeks : https://auth.geeksforgeeks.org/user/prudhvirajch 
