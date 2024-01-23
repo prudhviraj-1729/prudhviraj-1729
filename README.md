@@ -9,7 +9,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prudhvirajch?theme=dark&font=Roboto&ext=heatmap) ![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=prudhvirajch) 
 - LeetCode : https://leetcode.com/prudhvirajch/
 
-- GeeksForGeeks : https://auth.geeksforgeeks.org/user/prudhvirajch 
+- GeeksForGeeks : https://auth.geeksforgeeks.org/user/prudhvirajch
+
+- Linked In : https://www.linkedin.com/in/prudhvirajch
+
 
  ### 💻 &nbsp;Languages and Tools which I Use
 
