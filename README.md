@@ -11,7 +11,7 @@
 
 - GeeksForGeeks : https://auth.geeksforgeeks.org/user/prudhvirajch
 
-- Linked In : https://www.linkedin.com/in/prudhvirajch
+- LinkedIn : https://www.linkedin.com/in/prudhvirajch
 
 
  ### 💻 &nbsp;Languages and Tools which I Use
